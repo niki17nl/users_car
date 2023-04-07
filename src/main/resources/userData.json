@@ -1,0 +1,43 @@
+[
+  {
+    "userId": 1,
+    "name": "Nikita",
+    "car": [
+      {
+        "carId": 1,
+        "name": "Audi S3 2016"
+      },
+      {
+        "carId": 2,
+        "name": "BMW X5 2012"
+      }
+    ]
+  },
+  {
+    "userId": 2,
+    "name": "Alex",
+    "car": [
+      {
+        "carId": 3,
+        "name": "Ford Mustang 2018"
+      }
+    ]
+  },
+  {
+    "userId": 3,
+    "name": "Oleg",
+    "car": [
+      {
+        "carId": 1,
+        "name": "Audi S3 2016"
+      },
+      {
+        "carId": 2,
+        "name": "BMW X5 2012"
+      }, {
+        "carId": 3,
+        "name": "Ford Mustang 2018"
+      }
+    ]
+  }
+]

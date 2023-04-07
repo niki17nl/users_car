@@ -1,0 +1,11 @@
+spring:
+   application:
+      name: users_car
+
+server:
+   port: 8080
+
+swagger:
+   serverBaseUrl: ${SWAGGER_SERVER_BASE_URL:http://localhost:8080}
+
+
